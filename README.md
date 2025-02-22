@@ -21,9 +21,10 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hzdebian&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hzdebian&layout=compact&theme=transparent)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hzdebian&show_icons=true&theme=transparent"/><br>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzdebian&layout=compact&theme=transparent"/>
+</div>
 
 
 <div> 
