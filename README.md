@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: soareshugo.finance@gmail.com
 - 😄 Pronouns: He/His
+  <img align="right" width="200px" alt ="gatoderretido" src="https://cdn.discordapp.com/attachments/880205533452324950/1342994688478806126/gato.gif?ex=67bba8c5&is=67ba5745&hm=20294391a4d157c33fddb71de0475aaf350d6d88114838229f372ccdaa08feb5&"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,10 +33,6 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:soareshugo.finance@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-soares-2954552ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  <img align="right" width="200px" alt ="gatoderretido" src="https://cdn.discordapp.com/attachments/880205533452324950/1342994688478806126/gato.gif?ex=67bba8c5&is=67ba5745&hm=20294391a4d157c33fddb71de0475aaf350d6d88114838229f372ccdaa08feb5&"/>
-
-  
 </div>
 
 
@@ -43,7 +40,7 @@
 
 <br>
 
-<picture align="center">
+<picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hzdebian/hzdebian/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hzdebian/hzdebian/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hzdebian/hzdebian/output/github-contribution-grid-snake.svg">
