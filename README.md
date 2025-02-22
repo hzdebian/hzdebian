@@ -14,6 +14,7 @@
   <img align="right" width="200px" alt ="gatoderretido" src="https://cdn.discordapp.com/attachments/880205533452324950/1342994688478806126/gato.gif?ex=67bba8c5&is=67ba5745&hm=20294391a4d157c33fddb71de0475aaf350d6d88114838229f372ccdaa08feb5&"/>
 
 <div style="display: inline_block"><br>
+  <strong>My Stack</strong> <br><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,9 +23,10 @@
 </div>
 <br>
 
+<h2>GitHub Stats</h2>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hzdebian&show_icons=true&theme=transparent"/><br>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzdebian&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hzdebian&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzdebian&layout=compact&theme=transparent"/>
 </div>
 
 
