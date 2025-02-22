@@ -32,9 +32,11 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:soareshugo.finance@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-soares-2954552ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <img align="right" width="200px" alt ="gatoderretido" src="https://cdn.discordapp.com/attachments/880205533452324950/1342994688478806126/gato.gif?ex=67bba8c5&is=67ba5745&hm=20294391a4d157c33fddb71de0475aaf350d6d88114838229f372ccdaa08feb5&"/>
+
   
 </div>
-
 
 
 
@@ -48,3 +50,4 @@
 </picture>
 
 <br>
+
