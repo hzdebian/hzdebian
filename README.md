@@ -5,13 +5,15 @@
 
 #
 
-<h3 align="left">Contact me</h3>
+
+<img align="right" height="200px" alt ="gatoderretido" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
 <div> 
+    <h3 align="left">Contact me</h3>
   <a href="https://instagram.com/hsoarws" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/786228113142317057" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:soareshugo.finance@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-soares-2954552ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" height="200px" alt ="gatoderretido" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
+
 </div>
 
 
@@ -24,19 +26,16 @@
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyNzMwOTQsIm5iZiI6MTc0MDI3Mjc5NCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIzVDAxMDYzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyYzdkOWIwNmQwNzA2YjhlMTk1ZjQxYzk4OWZiMmQzOWJhY2Y5YzM0YTFhNTg3YmUxMDA0ZTVjZWM5ZTM4YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MtXIORqaGvG1bTQgbb8Cwo_Ld0fK5uTio4mX6DR57nk">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 </div>
-<br><br>
 
 #
 
 <div style="text-align: center;" align="center">
-  <h3> GitHub Stats </h3>
-  <img  src="https://github-readme-stats.vercel.app/api?username=hzdebian&show_icons=true&theme=transparent"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzdebian&layout=compact&theme=transparent"/>
+  <h3> GitHub Stats </h3><br>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=hzdebian&show_icons=true&theme=transparent"/>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzdebian&layout=compact&theme=transparent"/>
 </div>
 
-
-
-
+#
 
 <picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hzdebian/hzdebian/output/github-contribution-grid-snake-dark.svg">
