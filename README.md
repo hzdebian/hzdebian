@@ -8,9 +8,8 @@
 
 
 
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: soareshugo.finance@gmail.com
-- 😄 Pronouns: He/His
+I am currently a student of Systems Analysis and Development, but I also work in management. I am interested in both Front-End and Back-End development, and my favorite languages are JavaScript and Python. I am focused on constant learning because I love what I do and enjoy exploring new technologies.
+
   <img align="right" width="200px" alt ="gatoderretido" src="https://cdn.discordapp.com/attachments/880205533452324950/1342994688478806126/gato.gif?ex=67bba8c5&is=67ba5745&hm=20294391a4d157c33fddb71de0475aaf350d6d88114838229f372ccdaa08feb5&"/>
 
 <div style="display: inline_block"><br>
