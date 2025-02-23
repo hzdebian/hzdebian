@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB0000&background=FF020200&center=true&width=435&lines=hz%40Debian%3A+~%24+" alt="Typing SVG" /></a>
-  <p>Hello, friend. <br>I am currently a student of Systems Analysis and Development, but I also work in management. I am interested in both Front-End and Back-End development, and my favorite languages are JavaScript and Python. I am focused on constant learning because I love what I do and enjoy exploring new technologies.</p>
+  <p>Hello, friend! <br>I am a brazillian student of Systems Analysis and Development, but I also work in management. I am interested in both Front-End and Back-End development, and my favorite languages are JavaScript and Python. I am focused on constant learning because I love what I do and enjoy exploring new technologies.</p>
 </div>
 
 #
