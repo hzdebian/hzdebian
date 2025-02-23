@@ -8,11 +8,11 @@
 
 <img align="right" height="200px" alt ="gatoderretido" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
 <div> 
-    <h3 align="left">Contact me</h3>
-  <a href="https://instagram.com/hsoarws" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/786228113142317057" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:soareshugo.finance@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hugo-soares-2954552ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <h3 align="left">Contact Me!</h3>
+  <a href="https://instagram.com/hsoarws" target="_blank"><img height="40" width="40" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"></a>
+ <a href="https://discordapp.com/users/786228113142317057" target="_blank"><img height="40" width="40" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" target="_blank"></a> 
+  <a href = "mailto:soareshugo.finance@gmail.com"><img height="40" width="40" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hugo-soares-2954552ba/" target="_blank"><img height="40" width="40" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" target="_blank"></a> 
 
 </div>
 
