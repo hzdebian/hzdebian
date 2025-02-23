@@ -1,5 +1,5 @@
 <div align="center">
-  Hello, friend.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3047FF&center=true&width=435&lines=%C2%B0+Hello%2C+friend!+%C2%B0" alt="Typing SVG" /></a>
 </div>
 
 #
@@ -8,7 +8,7 @@
 
 #
 
-<h3 align="left">Send me a message!</h3>
+<h3 align="left">Contact me</h3>
 <div> 
   <a href="https://instagram.com/hsoarws" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/786228113142317057" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -19,7 +19,7 @@
 </div>
 
 
-
+<br>
 
 <h3 align="left">My Stack</h3>
 <div style="display: inline_block">
